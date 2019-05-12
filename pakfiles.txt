@@ -1,0 +1,86 @@
+models/weapons/c_models/trophy_platinum/trophy_platinum.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.mdl
+models/weapons/c_models/trophy_platinum/trophy_platinum.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.dx80.vtx
+models/weapons/c_models/trophy_platinum/trophy_platinum.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.dx90.vtx
+models/weapons/c_models/trophy_platinum/trophy_platinum.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.sw.vtx
+models/weapons/c_models/trophy_platinum/trophy_platinum.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.vvd
+materials/models/weapons/trophy_platinum/trophy_platinum.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/weapons/trophy_platinum/trophy_platinum.vmt
+materials/models/weapons/trophy_platinum/trophy_platinum_color.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/weapons/trophy_platinum/trophy_platinum_color.vtf
+materials/models/weapons/trophy_platinum/trophy_platinum_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/weapons/trophy_platinum/trophy_platinum_normal.vtf
+models/props_barnblitz/skybox_trees_snowpine_bb002.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_trees_snowpine_bb002.mdl
+models/props_barnblitz/skybox_trees_snowpine_bb002.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_trees_snowpine_bb002.dx80.vtx
+models/props_barnblitz/skybox_trees_snowpine_bb002.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_trees_snowpine_bb002.dx90.vtx
+models/props_barnblitz/skybox_trees_snowpine_bb002.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_trees_snowpine_bb002.sw.vtx
+models/props_barnblitz/skybox_trees_snowpine_bb002.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_trees_snowpine_bb002.vvd
+materials/models/props_barnblitz_pro/skybox_trees_snowpine001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/skybox_trees_snowpine001.vmt
+materials/models/props_barnblitz_pro/skybox_trees_snowpine001.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/skybox_trees_snowpine001.vtf
+models/props_barnblitz_pro/blu_spawn_roof_bb_02.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz_pro/blu_spawn_roof_bb_02.mdl
+models/props_barnblitz_pro/blu_spawn_roof_bb_02.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz_pro/blu_spawn_roof_bb_02.dx80.vtx
+models/props_barnblitz_pro/blu_spawn_roof_bb_02.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz_pro/blu_spawn_roof_bb_02.dx90.vtx
+models/props_barnblitz_pro/blu_spawn_roof_bb_02.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz_pro/blu_spawn_roof_bb_02.sw.vtx
+models/props_barnblitz_pro/blu_spawn_roof_bb_02.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz_pro/blu_spawn_roof_bb_02.vvd
+materials/models/props_barnblitz_pro/metalroof_neutral001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/metalroof_neutral001.vmt
+materials/models/props_barnblitz_pro/metalroof_neutral001.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/metalroof_neutral001.vtf
+models/props_misc/dogbread_01.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.mdl
+models/props_misc/dogbread_01.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.dx80.vtx
+models/props_misc/dogbread_01.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.dx90.vtx
+models/props_misc/dogbread_01.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.phy
+models/props_misc/dogbread_01.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.sw.vtx
+models/props_misc/dogbread_01.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_01.vvd
+materials/Models/props_misc/dogbread_01b.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/Models/props_misc/dogbread_01b.vmt
+materials/models/props_misc/dogbread_01b.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/dogbread_01b.vtf
+materials/Models/props_misc/dogbread_01.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/Models/props_misc/dogbread_01.vmt
+materials/models/props_misc/dogbread_01.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/dogbread_01.vtf
+materials/models/props_misc/dogbread_01_normal.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/dogbread_01_normal.vtf
+materials/Models/props_misc/dogbread_01a.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/Models/props_misc/dogbread_01a.vmt
+models/props_barnblitz/skybox_barn_bb002.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_barn_bb002.mdl
+models/props_barnblitz/skybox_barn_bb002.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_barn_bb002.dx80.vtx
+models/props_barnblitz/skybox_barn_bb002.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_barn_bb002.dx90.vtx
+models/props_barnblitz/skybox_barn_bb002.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_barn_bb002.sw.vtx
+models/props_barnblitz/skybox_barn_bb002.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_barnblitz/skybox_barn_bb002.vvd
+materials/models/props_barnblitz_pro/skybox_barn_bb001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/skybox_barn_bb001.vmt
+materials/models/props_barnblitz_pro/skybox_barn_bb001.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_barnblitz_pro/skybox_barn_bb001.vtf
+materials/pl_barnblitz/overlay_skybox_shadows_bb2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/pl_barnblitz/overlay_skybox_shadows_bb2.vmt
+materials/pl_barnblitz/overlay_skybox_shadows_bb2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/pl_barnblitz/overlay_skybox_shadows_bb2.vtf
